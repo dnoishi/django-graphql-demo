@@ -1,0 +1,4 @@
+django
+graphene_django
+django-filter
+requests
